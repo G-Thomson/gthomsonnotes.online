@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-starter-code-notes',
-    description: `A starter for gatsby-theme-code-notes`,
-    author: 'Zander',
+    title: 'Geoffrey\'s ideas and notes',
+    description: `Ideas and links`,
+    author: 'Geoffrey Thomson',
   },
   plugins: [
     {
