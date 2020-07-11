@@ -1,5 +1,5 @@
 ---
-title: Example note
+title: Photosynthesis
 emoji: 🌱
 tags:
   - Plant science
