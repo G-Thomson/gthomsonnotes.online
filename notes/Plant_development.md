@@ -11,6 +11,10 @@ tags:
     - https://www.nature.com/articles/s41467-020-15893-7
 * An RNA thermoswitch regulates daytime growth in Arabidopsis
     - https://www.nature.com/articles/s41477-020-0633-3
+* Differential DNA methylation in the Vinv promoter region controls Cold Induced Sweetening in potato
+    - https://www.biorxiv.org/content/10.1101/2020.04.26.062562v2
+* A molecular framework underlying the compound leaf pattern of Medicago truncatula
+    - https://www.nature.com/articles/s41477-020-0642-2
 
 ## Circadian clock
 * A mobile ELF4 delivers circadian temperature information from shoots to roots
@@ -23,3 +27,9 @@ tags:
 ## Comparative
 * Innovation, conservation and repurposing of gene function in plant root cell type development
     - https://www.biorxiv.org/content/10.1101/2020.04.09.017285v1
+
+## Metabolism
+* Metabolic flux analysis of secondary metabolism in plants
+    - https://www.sciencedirect.com/science/article/pii/S2214030119300434
+* Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity
+    - https://elifesciences.org/articles/56717

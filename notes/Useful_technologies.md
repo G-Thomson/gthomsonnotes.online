@@ -1,6 +1,6 @@
 ---
-title: Title
-emoji: 🌱🧬🌳📖💻
+title: Useful technologies
+emoji: 💻
 tags:
 
 ---

@@ -19,6 +19,8 @@ T-DNA-genome Junctions Form Early After Infection and Are Influenced by the Chro
     - https://link.springer.com/article/10.1007/s11627-019-10042-2
 * An innovative automated active compound screening system allows high-throughput optimization of somatic embryogenesis in Coffea arabica
     - https://www.nature.com/articles/s41598-020-57800-6
+* An efficient method for Agrobacterium-mediated genetic transformation of chilli pepper (Capsicum annuum L.)
+    - https://link.springer.com/article/10.1007/s40502-018-0389-1
 
 ## Transformation technology
 * Carbon nanocarriers deliver siRNA to intact plant cells for efficient gene knockdown
@@ -43,3 +45,7 @@ T-DNA-genome Junctions Form Early After Infection and Are Influenced by the Chro
     - https://www.biorxiv.org/content/10.1101/2020.04.16.045435v1
 * Development of mPing-based Activation Tags for Crop Insertional Mutagenesis
     - https://www.biorxiv.org/content/10.1101/2020.04.22.055970v1
+
+# CRISPR
+Marker-free carotenoid-enriched rice generated through targeted gene insertion using CRISPR-Cas9 ["genomic safe harbors]
+    - https://www.nature.com/articles/s41467-020-14981-y

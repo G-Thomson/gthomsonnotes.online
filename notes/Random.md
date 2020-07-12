@@ -12,3 +12,12 @@ tags:
 
 * A 1000-year-old mystery solved: Unlocking the molecular structure for the medieval blue from Chrozophora tinctoria, also known as folium
      - https://advances.sciencemag.org/content/6/16/eaaz7772
+
+* Empathy and compassion toward other species decrease with evolutionary divergence time
+     - https://www.nature.com/articles/s41598-019-56006-9
+
+* A Deep Learning Approach to Antibiotic Discovery
+     - https://www.sciencedirect.com/science/article/abs/pii/S0092867420301021
+
+* Capacity limits of information processing in the brain
+     - https://www.sciencedirect.com/science/article/abs/pii/S1364661305001178

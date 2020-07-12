@@ -4,7 +4,7 @@ emoji: 🧬
 tags:
   - CRISPR
   - Single cell
-  - Hi-C
+  - Chromatin
   - Networks
 ---
 
@@ -12,7 +12,12 @@ tags:
   - https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30201-5
 * Dynamics of the 4D genome during in vivo lineage specification and differentiation
   - https://www.nature.com/articles/s41467-020-16598-7
+* Imaging cell lineage with a synthetic digital recording system
+  - https://www.biorxiv.org/content/10.1101/2020.02.21.958678v2
+* Imaging translation dynamics in live embryos reveals spatial heterogeneities
+  - https://www.biorxiv.org/content/10.1101/2020.04.29.058974v1
 
+  
 # Networks
 * Inference of gene regulation functions from dynamic transcriptome data
   - https://elifesciences.org/articles/12188

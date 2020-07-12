@@ -17,3 +17,9 @@ tags:
     - https://www.nature.com/articles/ncomms15582
 * The Role of programmed-1 Ribosomal Frameshifting in Coronavirus Propagation 
     - https://pubmed.ncbi.nlm.nih.gov/18508552/
+
+# Epidemiology
+* Tracking virus outbreaks in the twenty-first century
+    - https://www.nature.com/articles/s41564-018-0296-2
+* Inferring infectious disease phylodynamics with notification data
+    - https://www.biorxiv.org/content/10.1101/596700v1
