@@ -1,5 +1,5 @@
 ---
-title: Example note
+title: Synthetic 
 emoji: 🧬 
 tags:
   - SynBio

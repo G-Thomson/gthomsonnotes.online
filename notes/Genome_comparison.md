@@ -1,5 +1,5 @@
 ---
-title: Genome Comparison
+title: Genome cmparison
 emoji: 💻
 tags:
     - Genome

@@ -1,6 +1,6 @@
 ---
 title: Agricultural biodiversity
-emoji: 🌱🧬🌳💻
+emoji: 🌳
 tags:
 
 ---
