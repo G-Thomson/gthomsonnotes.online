@@ -9,3 +9,11 @@ tags:
     - https://www.nature.com/articles/s41598-018-21284-2
 * Prevalence and impacts of genetically engineered feedstuffs on livestock populations
     - https://academic.oup.com/jas/article/92/10/4255/4702576
+* The human health benefits from GM crops
+	- https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13261
+* Is another genetic revolution needed to offset climate change impacts for US maize yields?
+	- https://iopscience.iop.org/article/10.1088/1748-9326/aae9b8/pdf
+* Exploring ethical issues in biology and medicine
+	- http://nuffieldbioethics.org/report/gm-crops-developing-countries-2/chapter-downloads
+* Rationalizing governance of genetically modified products in developing countries
+    - https://www.nature.com/articles/nbt.4069

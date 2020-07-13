@@ -14,6 +14,8 @@ tags:
 # Msater transcription factors
 * Transient genome-wide interactions of the master transcription factor NLP7 initiate a rapid nitrogen-response cascade
   - https://www.nature.com/articles/s41467-020-14979-6
+* LEAFY is a pioneer transcription factor and licenses cell reprogramming to floral fate
+  - https://www.biorxiv.org/content/10.1101/2020.03.16.994418v1
 
 ## Enhancers
 * Promoter-anchored chromatin interactions predicted from genetic analysis of epigenomic data

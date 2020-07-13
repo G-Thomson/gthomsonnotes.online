@@ -11,3 +11,6 @@ tags:
 
 * Predicting Evolutionary Constraints by Identifying Conflicting Demands in Regulatory Networks
   - https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30189-7
+
+* Deep learning at base-resolution reveals cis-regulatory motif syntax
+  - https://www.biorxiv.org/content/10.1101/737981v2

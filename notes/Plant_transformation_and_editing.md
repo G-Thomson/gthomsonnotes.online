@@ -6,12 +6,20 @@ tags:
   - CRISPR
 ---
 
-## T-DNA
-T-DNA-genome Junctions Form Early After Infection and Are Influenced by the Chromatin State of the Host Genome 
+## Agrobacterium and T-DNA
+* T-DNA-genome Junctions Form Early After Infection and Are Influenced by the Chromatin State of the Host Genome 
     - https://pubmed.ncbi.nlm.nih.gov/28742090/
+* Transcriptomic Analysis of Arabidopsis Seedlings in Response to an Agrobacterium-Mediated Transformation Process 
+    - https://pubmed.ncbi.nlm.nih.gov/29171790/
+* Suppression of different classes of somatic mutations in Arabidopsis by vir gene-expressing Agrobacterium strains
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4549908/
+* Overexpression of Several Arabidopsis Histone Genes Increases Agrobacterium-Mediated Transformation and Transgene Expression in Plants
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2782275/
+* Membrane and Core Periplasmic Agrobacterium Tumefaciens Virulence Type IV Secretion System Components Localize to Multiple Sites Around the Bacterial Perimeter During Lateral Attachment to Plant Cells 
+    - https://pubmed.ncbi.nlm.nih.gov/22027007/
     
 ## Transgene silencing
-*Invasive DNA elements modify the nuclear architecture of their insertion site by KNOT-linked silencing in Arabidopsis thaliana
+* Invasive DNA elements modify the nuclear architecture of their insertion site by KNOT-linked silencing in Arabidopsis thaliana
     - https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1722-3
 
 ## Transformation
@@ -21,6 +29,14 @@ T-DNA-genome Junctions Form Early After Infection and Are Influenced by the Chro
     - https://www.nature.com/articles/s41598-020-57800-6
 * An efficient method for Agrobacterium-mediated genetic transformation of chilli pepper (Capsicum annuum L.)
     - https://link.springer.com/article/10.1007/s40502-018-0389-1
+* Efficient sweet pepper transformation mediated by the BABY BOOM transcription factor
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092944/
+* Agrobacterium-mediated transient transformation of sorghum leaves for accelerating functional genomics and genome editing studies
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045639/
+* Genome Editing in Cotton with the CRISPR/Cas9 System
+    - https://www.frontiersin.org/articles/10.3389/fpls.2017.01364/full
+* Arabidopsis NahG Plants as a Suitable and Efficient System for Transient Expression using Agrobacterium tumefaciens
+    - https://www.cell.com/molecular-plant/references/S1674-2052(16)30274-X
 
 ## Transformation technology
 * Carbon nanocarriers deliver siRNA to intact plant cells for efficient gene knockdown
@@ -47,5 +63,9 @@ T-DNA-genome Junctions Form Early After Infection and Are Influenced by the Chro
     - https://www.biorxiv.org/content/10.1101/2020.04.22.055970v1
 
 # CRISPR
-Marker-free carotenoid-enriched rice generated through targeted gene insertion using CRISPR-Cas9 ["genomic safe harbors]
+* Marker-free carotenoid-enriched rice generated through targeted gene insertion using CRISPR-Cas9 ["genomic safe harbors"]
     - https://www.nature.com/articles/s41467-020-14981-y
+
+# Screening
+* High-Throughput CRISPR/Cas9 Mutagenesis Streamlines Trait Gene Identification in Maize
+    - http://www.plantcell.org/content/32/5/1397

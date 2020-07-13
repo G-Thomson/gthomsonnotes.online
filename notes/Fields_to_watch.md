@@ -23,6 +23,16 @@ tags:
   - https://academic.oup.com/nar/article/48/12/6685/5842194
 * Nanopore sequencing enables comprehensive transposable element epigenomic profiling
   - https://www.biorxiv.org/content/10.1101/2020.05.24.113068v1
+* Long-read cDNA Sequencing Enables a 'Gene-Like' Transcript Annotation of Transposable Elements
+  - http://www.plantcell.org/content/early/2020/07/09/tpc.20.00115
+* Neutral Theory, Transposable Elements, and Eukaryotic Genome Evolution
+  - https://academic.oup.com/mbe/article/35/6/1332/4983858
+* Silencing of Mutator Elements in Maize Involves Distinct Populations of Small RNAs and Distinct Patterns of DNA Methylation
+  - https://www.genetics.org/content/215/2/379
+* Targeting IS608 transposon integration to highly specific sequences by structure-based transposon engineering
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934647/
+* Generating high quality assemblies for genomic analysis of transposable elements
+  - https://www.biorxiv.org/content/10.1101/2020.03.27.011312v1
 
 ## Micbobial communities
 * Towards Engineering Biosystems with Emergent Collective Functions

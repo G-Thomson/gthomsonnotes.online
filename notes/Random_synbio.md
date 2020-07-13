@@ -10,11 +10,17 @@ tags:
 * A redox-based electrogenetic CRISPR system to connect with and control biological information networks
     - https://www.nature.com/articles/s41467-020-16249-x
 
+## In vitro
+* In vitro self-replication and multicistronic expression of large synthetic genomes
+     - https://www.nature.com/articles/s41467-020-14694-2
+     
 ## Protein design
 * De novo design of protein logic gates
     - https://science.sciencemag.org/content/368/6486/78
 * Automated Continuous Evolution of Proteins in Vivo
     - https://pubs.acs.org/doi/10.1021/acssynbio.0c00135
+* In vitro ribosome synthesis and evolution through ribosome display
+    - https://www.nature.com/articles/s41467-020-14705-2
 
 ## Genetic circuits
 * Programming Escherichia coli to function as a digital display

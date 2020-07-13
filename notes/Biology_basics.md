@@ -3,7 +3,15 @@ title: Biology basics
 emoji: 🌳
 tags:
     - Gene regulation
+    - Chromatin
 ---
+
+* Size-Dependent Increase in RNA Polymerase II Initiation Rates Mediates Gene Expression Scaling with Cell Size [kinda biogeography feeling]
+    - https://www.sciencedirect.com/science/article/pii/S096098222030097X
+
+## Chromatin
+* Beads on a string—nucleosome array arrangements and folding of the chromatin fiber
+    - https://www.nature.com/articles/s41594-019-0368-x
 
 ## Transcription factors
 * DNA surface exploration and operator bypassing during target search
@@ -14,6 +22,10 @@ tags:
 # Mitosis
 * Gene expression and cell identity controlled by anaphase-promoting complex
     - https://www.nature.com/articles/s41586-020-2034-1
+
+# Transcription
+- Comparative dynamic transcriptome analysis (cDTA) reveals mutual feedback between mRNA synthesis and degradation
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396375/
 
 # Translation
 * The Key Parameters that Govern Translation Efficiency

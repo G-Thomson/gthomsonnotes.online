@@ -15,6 +15,8 @@ tags:
     - https://www.biorxiv.org/content/10.1101/2020.04.26.062562v2
 * A molecular framework underlying the compound leaf pattern of Medicago truncatula
     - https://www.nature.com/articles/s41477-020-0642-2
+* Hi-C Analysis in Arabidopsis Identifies the KNOT, a Structure with Similarities to the flamenco Locus of Drosophila
+    - https://www.sciencedirect.com/science/article/pii/S1097276514006029
 
 ## Circadian clock
 * A mobile ELF4 delivers circadian temperature information from shoots to roots
@@ -27,6 +29,8 @@ tags:
 ## Comparative
 * Innovation, conservation and repurposing of gene function in plant root cell type development
     - https://www.biorxiv.org/content/10.1101/2020.04.09.017285v1
+* A Pan-plant Protein Complex Map Reveals Deep Conservation and Novel Assemblies
+    - https://www.sciencedirect.com/science/article/abs/pii/S0092867420302269
 
 ## Metabolism
 * Metabolic flux analysis of secondary metabolism in plants
