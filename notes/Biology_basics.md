@@ -8,6 +8,8 @@ tags:
 
 * Size-Dependent Increase in RNA Polymerase II Initiation Rates Mediates Gene Expression Scaling with Cell Size [kinda biogeography feeling]
     - https://www.sciencedirect.com/science/article/pii/S096098222030097X
+* Crossover Interference: Shedding Light on the Evolution of Recombination
+    - https://www.annualreviews.org/doi/abs/10.1146/annurev-genet-040119-093957
 
 ## Chromatin
 * Beads on a string—nucleosome array arrangements and folding of the chromatin fiber

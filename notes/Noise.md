@@ -10,3 +10,7 @@ tags:
 ## Gene expression
 * Exactly solvable models of stochastic gene expression
   - https://aip.scitation.org/doi/10.1063/1.5143540
+
+## Individuality
+* The transcriptional legacy of developmental stochasticity
+  - https://www.biorxiv.org/content/10.1101/2019.12.11.873265v1

@@ -17,10 +17,14 @@ tags:
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2782275/
 * Membrane and Core Periplasmic Agrobacterium Tumefaciens Virulence Type IV Secretion System Components Localize to Multiple Sites Around the Bacterial Perimeter During Lateral Attachment to Plant Cells 
     - https://pubmed.ncbi.nlm.nih.gov/22027007/
+* An Improved Recombineering Toolset for Plants [ "BACs" ]
+    - http://www.plantcell.org/content/32/1/100.long
     
 ## Transgene silencing
 * Invasive DNA elements modify the nuclear architecture of their insertion site by KNOT-linked silencing in Arabidopsis thaliana
     - https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1722-3
+* Evolution of sequence-specific anti-silencing systems in Arabidopsis
+    - https://www.nature.com/articles/s41467-017-02150-7
 
 ## Transformation
 * Use of non-integrating Zm-Wus2 vectors to enhance maize transformation

@@ -18,8 +18,13 @@ tags:
   - https://www.biorxiv.org/content/10.1101/2020.04.29.058974v1
 * Dynamic genetic regulation of gene expression during cellular differentiation
   - https://science.sciencemag.org/content/364/6447/1287
+* Epigenomic analysis of gastrulation identifies a unique chromatin state for primed pluripotency
+  - https://www.nature.com/articles/s41588-019-0545-1
+* Identification of genomic enhancers through spatial integration of single‐cell transcriptomics and epigenomics
+  - https://www.embopress.org/doi/full/10.15252/msb.20209438
+
   
-# Networks
+## Networks
 * Inference of gene regulation functions from dynamic transcriptome data
   - https://elifesciences.org/articles/12188
 * Identification and evolution of gene regulatory networks: insights from comparative studies in plants

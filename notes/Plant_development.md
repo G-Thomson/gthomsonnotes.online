@@ -2,7 +2,7 @@
 title: Plant_development
 emoji: 🌱
 tags:
-    - Plant Science
+    - Plant science
 ---
 
 * A single gene underlies the dynamic evolution of poplar sex determination
@@ -17,6 +17,12 @@ tags:
     - https://www.nature.com/articles/s41477-020-0642-2
 * Hi-C Analysis in Arabidopsis Identifies the KNOT, a Structure with Similarities to the flamenco Locus of Drosophila
     - https://www.sciencedirect.com/science/article/pii/S1097276514006029
+* Asymmetrical diversification of the receptor-ligand interaction controlling self-incompatibility in Arabidopsis
+    - https://elifesciences.org/articles/50253
+
+## Cool mutants
+* Switching the Direction of Stem Gravitropism by Altering Two Amino Acids in AtLAZY1
+    - http://www.plantphysiol.org/content/182/2/1039
 
 ## Circadian clock
 * A mobile ELF4 delivers circadian temperature information from shoots to roots
@@ -25,6 +31,8 @@ tags:
 ## Stem cells
 * Plant stem cell maintenance involves direct transcriptional repression of differentiation program 
     - https://www.embopress.org/doi/full/10.1038/msb.2013.8
+* Stem-cell-ubiquitous genes spatiotemporally coordinate division through regulation of stem-cell-specific gene networks
+    - https://www.nature.com/articles/s41467-019-13132-2
 
 ## Comparative
 * Innovation, conservation and repurposing of gene function in plant root cell type development

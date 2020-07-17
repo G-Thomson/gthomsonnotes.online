@@ -2,13 +2,16 @@
 title: Useful technologies
 emoji: 💻
 tags:
-
+    - Tools
 ---
 
 * Unconstrained genome targeting with near-PAMless engineered CRISPR-Cas9 variants
     - https://science.sciencemag.org/content/368/6488/290
+
+* Probe-Seq enables transcriptional profiling of specific cell types from heterogeneous tissue by RNA-based isolation
+    - https://elifesciences.org/articles/51452
     
-# CRISPR screens
+## CRISPR screens
 * Genetic interaction mapping and exon-resolution functional genomics with a hybrid Cas9–Cas12a platform
     - https://www.nature.com/articles/s41587-020-0437-z
 

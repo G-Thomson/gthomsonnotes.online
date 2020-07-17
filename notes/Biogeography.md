@@ -13,3 +13,5 @@ tags:
 ## Universal rules
 * Constraint Around Quarter-Power Allometric Scaling in Wild Tomatoes (Solanum Sect. Lycopersicon; Solanaceae) 
     - https://pubmed.ncbi.nlm.nih.gov/26655358/
+* Positive associations among rare species and their persistence in ecological assemblages
+    - https://www.nature.com/articles/s41559-019-1053-5

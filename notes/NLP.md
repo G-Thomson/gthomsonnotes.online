@@ -3,6 +3,7 @@ title: NLP
 emoji: 💻
 tags:
     - Cultural evolution
+    - Computational
 ---
 
 * Semantic Relatedness and Taxonomic Word Embeddings

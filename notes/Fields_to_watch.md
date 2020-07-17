@@ -33,6 +33,12 @@ tags:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934647/
 * Generating high quality assemblies for genomic analysis of transposable elements
   - https://www.biorxiv.org/content/10.1101/2020.03.27.011312v1
+* The impact of transposable elements on the structure, evolution and function of the rice genome
+  - https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16356
+* Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation
+  - https://www.nature.com/articles/s41467-019-13730-0
+* Transposable elements contribute to dynamic genome content in maize
+  - https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14489 
 
 ## Micbobial communities
 * Towards Engineering Biosystems with Emergent Collective Functions

@@ -22,3 +22,6 @@ tags:
 
 * Genetically targeted chemical assembly of functional materials in living cells, tissues, and animals
   - https://science.sciencemag.org/content/367/6484/1372
+
+* The industrial yeast Pichia pastoris is converted from a heterotroph into an autotroph capable of growth on CO2
+  - https://www.nature.com/articles/s41587-019-0363-0

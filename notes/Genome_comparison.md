@@ -12,6 +12,8 @@ tags:
     - https://www.biorxiv.org/content/10.1101/2020.04.24.060046v3
 * Highly accurate long-read HiFi sequencing data for five complex genomes
     - https://www.biorxiv.org/content/10.1101/2020.05.04.077180v1
+* Identifying the causes and consequences of assembly gaps using a multiplatform genome assembly of a bird-of-paradise
+    - https://www.biorxiv.org/content/10.1101/2019.12.19.882399v1
 
 ##  Pangenome
 * The design and construction of reference pangenome graphs

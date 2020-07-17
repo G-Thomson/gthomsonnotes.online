@@ -21,3 +21,12 @@ tags:
 
 * Capacity limits of information processing in the brain
      - https://www.sciencedirect.com/science/article/abs/pii/S1364661305001178
+
+* A DNA-of-things storage architecture to create materials with embedded memory
+     - https://www.nature.com/articles/s41587-019-0356-z
+
+* Plants emit informative airborne sounds under stress
+     - https://www.biorxiv.org/content/10.1101/507590v4
+
+* Social media-predicted personality traits and values can help match people to their ideal jobs
+     - https://www.pnas.org/content/116/52/26459
